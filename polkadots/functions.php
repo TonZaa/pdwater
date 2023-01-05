@@ -12,9 +12,10 @@ function setup_my_theme() {
  }
  add_action( 'after_setup_theme', 'setup_my_theme');
 
-echo '3333';
+echo  "333";
+each "444";
 
 
 
 
-?>
+?>'
