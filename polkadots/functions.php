@@ -14,6 +14,7 @@ function setup_my_theme() {
 
 echo  "333";
 each "444";
+echo '555'
 
 
 
